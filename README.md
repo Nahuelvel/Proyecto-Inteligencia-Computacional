@@ -26,7 +26,10 @@ Proyecto-Inteligencia-Computacional/
 - Python 3.8 o superior
 - pip o conda para gestión de paquetes
 
-### Configuración del entorno
+### Inicio Rápido
+Para instrucciones detalladas de instalación y configuración, consulta la [Guía Rápida de Inicio](docs/QUICKSTART.md).
+
+**Resumen:**
 ```bash
 # Clonar el repositorio
 git clone https://github.com/Nahuelvel/Proyecto-Inteligencia-Computacional.git
@@ -36,8 +39,11 @@ cd Proyecto-Inteligencia-Computacional
 python -m venv venv
 source venv/bin/activate  # En Windows: venv\Scripts\activate
 
-# Instalar dependencias (cuando estén disponibles)
+# Instalar dependencias
 pip install -r requirements.txt
+
+# Instalar el proyecto en modo desarrollo
+pip install -e .
 ```
 
 ## Uso
