@@ -1,22 +1,21 @@
 # Análisis de datos
-numpy>=1.21.0
-pandas>=1.3.0
-scipy>=1.7.0
+numpy==2.3.3
+pandas==2.3.3
+scipy==1.16.2
+
 
 # Machine Learning
-scikit-learn>=1.0.0
+scikit-learn==1.7.2
+torch==2.8.0
 
 # Visualización
-matplotlib>=3.4.0
-seaborn>=0.11.0
+matplotlib==3.10.7
+seaborn==0.13.2
 
 # Jupyter
 jupyter>=1.0.0
 ipykernel>=6.0.0
 
 # Utilidades
-tqdm>=4.62.0
-
-# Testing (opcional)
-pytest>=7.0.0
-pytest-cov>=3.0.0
+cesium==0.12.4
+FATS==1.3.6
