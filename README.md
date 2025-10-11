@@ -42,8 +42,7 @@ source venv/bin/activate  # En Windows: venv\Scripts\activate
 # Instalar dependencias
 pip install -r requirements.txt
 
-# Instalar el proyecto en modo desarrollo
-pip install -e .
+
 ```
 
 ## Uso
@@ -60,12 +59,3 @@ Este es un proyecto colaborativo. Por favor, revisa [CONTRIBUTING.md](CONTRIBUTI
 
 ## Progreso del Proyecto
 Consulta [CHANGELOG.md](CHANGELOG.md) para ver el historial detallado de cambios y el progreso del desarrollo.
-
-## Contribuidores
-- Lista de contribuidores se actualizará conforme avance el proyecto
-
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
-## Contacto
-Para preguntas o sugerencias, por favor abre un issue en el repositorio.
