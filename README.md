@@ -1,6 +1,10 @@
 # Proyecto-Inteligencia-Computacional
 Clasificadores con robustez a cambios de fase en las series de tiempo y curvas de luz
 
+## Integrantes
+- Eduardo Ríos
+- Pablo Velásquez
+
 ## Descripción
 Este proyecto desarrolla clasificadores robustos para el análisis de series de tiempo y curvas de luz, con énfasis en la robustez ante cambios de fase. El objetivo es implementar y evaluar diferentes técnicas de machine learning para la clasificación de datos temporales.
 
